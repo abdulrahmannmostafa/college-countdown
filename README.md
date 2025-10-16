@@ -1,11 +1,7 @@
+# Senior Year Countdown
 
-  # Senior Year Countdown
+## Running the code
 
-  This is a code bundle for Senior Year Countdown. The original project is available at https://www.figma.com/design/eENFIFfFwRNUWKlz71XDhc/Senior-Year-Countdown.
+Run `npm i` to install the dependencies.
 
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+Run `npm run dev` to start the development server.
